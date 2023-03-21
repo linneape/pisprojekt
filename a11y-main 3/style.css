@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css2?family=Urbanist&display=swap");
+
+* {
+  font-family: "Urbanist", sans-serif;
+}
+
+.navbar {
+  background-color: #55524c;
+  color: white;
+}
+.navbar a {
+  color: white;
+  letter-spacing: 0.8px;
+}
+
+.navbar a:hover {
+  color: #f49800;
+}
+
+.logo-eamv {
+  background-color: #55524c;
+  padding-top: 2em;
+  padding-left: 2em;
+  padding-bottom: 1em;
+}
+
+.custom-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+
+/* -----------------------------Info---------------------------------------- */
+
+.uddannelsesinfo {
+  background-color: #f49800;
+  color: white;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  padding-left: 4em;
+}
+
+.infosection {
+  padding-top: 2em;
+}
+
+h1 {
+  font-size: 70%;
+}
+
+.btn-infotekst{
+  background-color: #55524c;
+  color:white;
+  padding-top: 1em;
+  padding-bottom:1em;
+  padding-left:2em;
+  width:35em;
+  margin-top:1em;
+
+  text-align: left;
+  border: none;
+}
+
+.btn-infoknap{
+  background-color: #878581;
+  color:white;
+  padding-top: 1em;
+  padding-bottom:1em;
+  padding-left:2em;
+  width:35em;
+  margin-top:1em;
+
+  text-align: left;
+  border: none;
+}
